@@ -1,1 +1,1 @@
-# This Repo Contains all the GenAi Materials that i have gathered and practiced while learning the GENAI.
+## This Repo contains all the material i have gathered and made while learning the Generative AI.
